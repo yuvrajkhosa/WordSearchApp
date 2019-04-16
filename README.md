@@ -8,3 +8,5 @@
 7) Once complete, click 'Select File' once more and hit Start.
 # Example of correct word search image
 ![Example of word search](https://i.imgur.com/v3e122bg.png)
+
+![Example of word search solved](https://i.imgur.com/v3e122bg.png)
