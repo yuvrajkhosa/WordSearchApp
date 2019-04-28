@@ -1,5 +1,5 @@
 # Instructions:
-Source code: https://github.com/yuvrajkhosa/WordSearchApp
+Source code: https://github.com/yuvrajkhosa/WordSearchSourceCode
 1) Get a screenshot or picture of a whole word search (including the word bank) onto your computer. 
 2) Open the Application.exe file.
 3) Click 'Select File' in the menu bar and select 'Add' and add your wordsearch image.
