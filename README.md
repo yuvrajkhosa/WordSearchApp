@@ -8,7 +8,7 @@ Source code: https://github.com/yuvrajkhosa/WordSearchSourceCode
 6) Hold down left click at the top left of the word bank portion and drag a rectangle to the bottom right of the word bank. Release the mouse and select Word Bank.
 7) Once complete, click 'Select File' once more and hit Start.
 
-![Gif](https://im5.ezgif.com/tmp/ezgif-5-c523dda98c3c.gif)
+![](https://im5.ezgif.com/tmp/ezgif-5-16d69c88ee00.gif)
 # Example of correct word search image
 ![Example of word search](https://i.imgur.com/v3e122bg.png)
 # Same example run through the program
