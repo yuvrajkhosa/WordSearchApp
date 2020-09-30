@@ -1,14 +1,64 @@
 
 
 Version:	3.12
-CmdLine:	C:\Users\Yuvraj\Desktop\WordSearchLibraryes\Application.exe --l4j-debug
+CmdLine:	C:\Users\Yuvraj\Desktop\WORD\WordSearchSolver.exe --l4j-debug
 WOW64:		yes
-Working dir:	C:\Users\Yuvraj\Desktop\WordSearchLibraryes\.
+Working dir:	C:\Users\Yuvraj\Desktop\WORD\.
 Java min ver:	
 Java max ver:	
-Bundled JRE:	jre1.8.0_201
-Check launcher:	C:\Users\Yuvraj\Desktop\WordSearchLibraryes\jre1.8.0_201\bin\javaw.exe (OK)
-Launcher:	C:\Users\Yuvraj\Desktop\WordSearchLibraryes\jre1.8.0_201\bin\javaw.exe
-Launcher args:	-jar "C:\Users\Yuvraj\Desktop\WordSearchLibraryes\Application.exe"
-Args length:	66/32768 chars
+Bundled JRE:	C:\Program Files\Java\jre1.8.0_231\bin\java.exe
+Check launcher:	C:\Program Files\Java\jre1.8.0_231\bin\java.exe\bin\javaw.exe (not found)
+Error msg:	This application was configured to use a bundled Java Runtime Environment but the runtime is missing or corrupted.
+
+
+Version:	3.12
+CmdLine:	C:\Users\Yuvraj\Desktop\WORD\WordSearchSolver.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Yuvraj\Desktop\WORD\.
+Java min ver:	
+Java max ver:	
+Bundled JRE:	C:\Program Files\Java\jre1.8.0_231\bin\javaw.exe
+Check launcher:	C:\Program Files\Java\jre1.8.0_231\bin\javaw.exe\bin\javaw.exe (not found)
+Error msg:	This application was configured to use a bundled Java Runtime Environment but the runtime is missing or corrupted.
+
+
+Version:	3.12
+CmdLine:	C:\Users\Yuvraj\Desktop\WORD\WordSearchSolver.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Yuvraj\Desktop\WORD\.
+Java min ver:	
+Java max ver:	
+Bundled JRE:	C:\Program Files\Java\jre1.8.0_231
+Check launcher:	C:\Program Files\Java\jre1.8.0_231\bin\javaw.exe (OK)
+Launcher:	C:\Program Files\Java\jre1.8.0_231\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Yuvraj\Desktop\WORD\WordSearchSolver.exe"
+Args length:	56/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	C:\Users\Yuvraj\Desktop\WORD\WordSearchSolver.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Yuvraj\Desktop\WORD\.
+Java min ver:	
+Java max ver:	
+Bundled JRE:	C:\Program Files\Java\jre1.8.0_231
+Check launcher:	C:\Program Files\Java\jre1.8.0_231\bin\javaw.exe (OK)
+Launcher:	C:\Program Files\Java\jre1.8.0_231\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Yuvraj\Desktop\WORD\WordSearchSolver.exe"
+Args length:	56/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	C:\Users\Yuvraj\Desktop\WORD\WordSearchSolver.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Yuvraj\Desktop\WORD\.
+Java min ver:	
+Java max ver:	
+Bundled JRE:	C:\Program Files\Java\jre1.8.0_231
+Check launcher:	C:\Program Files\Java\jre1.8.0_231\bin\javaw.exe (OK)
+Launcher:	C:\Program Files\Java\jre1.8.0_231\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Yuvraj\Desktop\WORD\WordSearchSolver.exe"
+Args length:	56/32768 chars
 Exit code:	0
